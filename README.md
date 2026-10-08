@@ -360,9 +360,9 @@
 
   <h2>TERMINAL</h2>
 
-  <br>
+</div>
 
-  <pre>
+```text
 $ whoami
 ernest-jesutin-afaton
 
@@ -374,18 +374,10 @@ creative-technology
 
 $ status
 building...
-  </pre>
 
-</div>
-
-<br>
-
+```
 <div align="center">
 
-  <img
-    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/separators/separator-terminal.svg"
-    width="100%"
-    alt="Terminal separator"
-  />
+<img src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/separators/separator-terminal.svg" width="100%" alt="ERNEST JESUTIN AFATON terminal separator" />
 
-</div>
+</div> ```
