@@ -129,11 +129,6 @@
   <br>
 
   <img
-    src="https://komarev.com/ghpvc/?username=ernestjesutinafaton-maker&style=for-the-badge&color=8B5CF6"
-    alt="ERNEST JESUTIN AFATON profile views"
-  />
-
-  <img
     src="https://img.shields.io/github/followers/ernestjesutinafaton-maker?style=for-the-badge&color=D946EF&labelColor=090014"
     alt="ERNEST JESUTIN AFATON GitHub followers"
   />
