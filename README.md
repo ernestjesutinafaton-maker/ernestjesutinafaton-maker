@@ -1,4 +1,4 @@
-
+## Hi there 
 
 <!-- ========================================================= -->
 <!-- HERO -->
@@ -67,110 +67,6 @@
 
 </div>
 
-<!-- ========================================================= -->
-<!-- ABOUT ME -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-  <h2>⚡ ABOUT ME</h2>
-
-  <br>
-
-  <table>
-    <tr>
-      <td width="60%" valign="top">
-
-        <h3>👋 Hello, World!</h3>
-
-        <p>
-          I'm <b>Ernest Jesutina Faton</b>, a developer who enjoys
-          building things, experimenting with technology and turning
-          ideas into working systems.
-        </p>
-
-        <p>
-          My interests revolve around <b>software development</b>,
-          <b>automation</b>, <b>artificial intelligence</b> and
-          <b>creative technical projects</b>.
-        </p>
-
-        <p>
-          I don't just want to use tools.
-          <br>
-          I like understanding how they work — and building my own.
-        </p>
-
-      </td>
-
-      <td width="40%" align="center" valign="middle">
-
-        <img
-          src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/illustrations/character-github-developer.png"
-          width="280"
-          alt="GitHub Developer Character"
-        />
-
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-<br>
-
-<!-- ========================================================= -->
-<!-- SYSTEM STATUS -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-  <h3>🖥️ SYSTEM STATUS</h3>
-
-  <table>
-    <tr>
-      <td>🟢 GitHub Stats Engine</td>
-      <td><b>ONLINE</b></td>
-    </tr>
-
-    <tr>
-      <td>🟢 Profile Assets</td>
-      <td><b>ONLINE</b></td>
-    </tr>
-
-    <tr>
-      <td>🟢 Automation</td>
-      <td><b>ONLINE</b></td>
-    </tr>
-
-    <tr>
-      <td>🟣 Character System</td>
-      <td><b>INITIALIZING</b></td>
-    </tr>
-
-    <tr>
-      <td>🟣 Contribution Engine</td>
-      <td><b>RUNNING</b></td>
-    </tr>
-  </table>
-
-</div>
-
-<br>
-
-<!-- ========================================================= -->
-<!-- SEPARATOR -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-  <img
-    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/separators/separator-circuit.svg"
-    width="100%"
-    alt=""
-  />
-
-</div>
 
 <!--
 **ernestjesutinafaton-maker/ernestjesutinafaton-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
