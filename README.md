@@ -313,83 +313,63 @@
 
   <br>
 
-  <table>
-    <tr>
-      <td align="center" width="50%">
+  <h3>PROFILE ASSETS</h3>
 
-        <h3>PROFILE ASSETS</h3>
+  <p>
+    Visual assets, icons, separators and graphics used by this profile.
+  </p>
 
-        <p>
-          Visual assets, icons, separators and
-          graphics used by this profile.
-        </p>
+  <a href="https://github.com/ernestjesutinafaton-maker/profile-assets">
+    <img
+      src="https://img.shields.io/badge/VIEW_REPOSITORY-8B5CF6?style=for-the-badge&logo=github&logoColor=white"
+      alt="ERNEST JESUTIN AFATON profile assets repository"
+    />
+  </a>
 
-        <a href="https://github.com/ernestjesutinafaton-maker/profile-assets">
-          <img
-            src="https://img.shields.io/badge/VIEW_REPOSITORY-8B5CF6?style=for-the-badge&logo=github&logoColor=white"
-            alt="ERNEST JESUTIN AFATON profile assets repository"
-          />
-        </a>
+  <br><br>
 
-      </td>
+  <h3>GITHUB PROFILE STATS</h3>
 
-      <td align="center" width="50%">
+  <p>
+    Automated GitHub statistics engine generating custom SVG dashboards.
+  </p>
 
-        <h3>GITHUB PROFILE STATS</h3>
+  <a href="https://github.com/ernestjesutinafaton-maker/github-profile-stats">
+    <img
+      src="https://img.shields.io/badge/PRIVATE_ENGINE-D946EF?style=for-the-badge&logo=github&logoColor=white"
+      alt="ERNEST JESUTIN AFATON GitHub profile stats engine"
+    />
+  </a>
 
-        <p>
-          Automated GitHub statistics engine
-          generating custom SVG dashboards.
-        </p>
+  <br><br>
 
-        <a href="https://github.com/ernestjesutinafaton-maker/github-profile-stats">
-          <img
-            src="https://img.shields.io/badge/PRIVATE_ENGINE-D946EF?style=for-the-badge&logo=github&logoColor=white"
-            alt="ERNEST JESUTIN AFATON GitHub profile stats engine"
-          />
-        </a>
+  <h3>GITHUB PROFILE STATS PUBLICS</h3>
 
-      </td>
-    </tr>
+  <p>
+    Public repository containing the generated statistics SVG files.
+  </p>
 
-    <tr>
-      <td align="center" width="50%">
+  <a href="https://github.com/ernestjesutinafaton-maker/github-profile-stats-publics">
+    <img
+      src="https://img.shields.io/badge/GENERATED_OUTPUTS-22D3EE?style=for-the-badge&logo=github&logoColor=white"
+      alt="ERNEST JESUTIN AFATON public profile statistics"
+    />
+  </a>
 
-        <h3>PROFILE STATS PUBLICS</h3>
+  <br><br>
 
-        <p>
-          Public repository containing the
-          generated statistics SVG files.
-        </p>
+  <h3>PROFILE README</h3>
 
-        <a href="https://github.com/ernestjesutinafaton-maker/github-profile-stats-publics">
-          <img
-            src="https://img.shields.io/badge/GENERATED_OUTPUTS-22D3EE?style=for-the-badge&logo=github&logoColor=white"
-            alt="ERNEST JESUTIN AFATON public profile statistics"
-          />
-        </a>
+  <p>
+    The central interface connecting the profile, assets and statistics.
+  </p>
 
-      </td>
-
-      <td align="center" width="50%">
-
-        <h3>PROFILE README</h3>
-
-        <p>
-          The central interface connecting
-          the profile, assets and statistics.
-        </p>
-
-        <a href="https://github.com/ernestjesutinafaton-maker/ernestjesutinafaton-maker">
-          <img
-            src="https://img.shields.io/badge/PROFILE-181717?style=for-the-badge&logo=github&logoColor=white"
-            alt="ERNEST JESUTIN AFATON GitHub profile repository"
-          />
-        </a>
-
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/ernestjesutinafaton-maker/ernestjesutinafaton-maker">
+    <img
+      src="https://img.shields.io/badge/PROFILE-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="ERNEST JESUTIN AFATON GitHub profile repository"
+    />
+  </a>
 
 </div>
 
