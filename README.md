@@ -164,7 +164,7 @@
 
   <img
     src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/github-profile-stats-publics/main/activity.svg"
-    width="500"
+    width="700"
     alt="ERNEST JESUTIN AFATON GitHub activity"
   />
 
@@ -193,7 +193,7 @@
 
   <img
     src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/github-profile-stats-publics/main/overview.svg"
-    width="500"
+    width="600"
     alt="ERNEST JESUTIN AFATON GitHub overview statistics"
   />
 
@@ -201,7 +201,7 @@
 
   <img
     src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/github-profile-stats-publics/main/streak.svg"
-    width="500"
+    width="600"
     alt="ERNEST JESUTIN AFATON GitHub contribution streak"
   />
 
@@ -209,7 +209,7 @@
 
   <img
     src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/github-profile-stats-publics/main/contributions.svg"
-    width="500"
+    width="600"
     alt="ERNEST JESUTIN AFATON GitHub contributions"
   />
 
@@ -217,7 +217,7 @@
 
   <img
     src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/github-profile-stats-publics/main/languages.svg"
-    width="500"
+    width="600"
     alt="ERNEST JESUTIN AFATON programming languages"
   />
 
