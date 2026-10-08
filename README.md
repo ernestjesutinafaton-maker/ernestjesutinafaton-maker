@@ -302,32 +302,53 @@
     alt="Code separator"
   />
 
-</div>
 <!-- ========================================================= -->
-<!-- PROJECTS -->
+<!-- DIGITAL CHARACTER -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-## PROJECTS
+  <h2>DIGITAL CHARACTER</h2>
 
 </div>
-
-| PROJECT | DESCRIPTION | STATUS |
-|:---|:---|:---:|
-| **[profile-assets](https://github.com/ernestjesutinafaton-maker/profile-assets)** | Visual assets, icons, separators and profile graphics. | `PUBLIC` |
-| **[github-profile-stats](https://github.com/ernestjesutinafaton-maker/github-profile-stats)** | Private engine generating custom GitHub statistics. | `PRIVATE` |
-| **[github-profile-stats-publics](https://github.com/ernestjesutinafaton-maker/github-profile-stats-publics)** | Public repository containing generated SVG dashboards. | `PUBLIC` |
-| **[ernestjesutinafaton-maker](https://github.com/ernestjesutinafaton-maker)** | Main GitHub profile and README interface. | `ACTIVE` |
 
 <br>
 
 <div align="center">
 
   <img
-    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/separators/separator-circuit.svg"
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/illustrations/character-github-developer.png"
+    width="280"
+    alt="ERNEST JESUTIN AFATON digital developer character"
+  />
+
+  <br>
+
+  <h3>ERNEST JESUTIN AFATON</h3>
+
+  <p>
+    Software developer focused on building systems,
+    automation and digital experiences.
+  </p>
+
+  <p>
+    <b>BUILD</b>
+    &nbsp;&nbsp;•&nbsp;&nbsp;
+    <b>AUTOMATE</b>
+    &nbsp;&nbsp;•&nbsp;&nbsp;
+    <b>CREATE</b>
+  </p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/separators/separator-neon-line.svg"
     width="100%"
-    alt="Cyber circuit separator"
+    alt="Neon separator"
   />
 
 </div>
