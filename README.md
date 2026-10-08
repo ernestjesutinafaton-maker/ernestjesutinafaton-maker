@@ -244,123 +244,51 @@
 
   <br>
 
-  <table>
-    <tr>
-      <td align="center" valign="top">
+  <p><b>LANGUAGES</b></p>
 
-        <b>LANGUAGES</b>
+  <p>
+    <img src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/html5.svg" width="45" alt="HTML5" />
+    &nbsp;
+    <img src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/css3.svg" width="45" alt="CSS3" />
+    &nbsp;
+    <img src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/javascript.svg" width="45" alt="JavaScript" />
+    &nbsp;
+    <img src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/typescript.svg" width="45" alt="TypeScript" />
+    &nbsp;
+    <img src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/python.svg" width="45" alt="Python" />
+  </p>
 
-        <br><br>
+  <br>
 
-        <img
-          src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/html5.svg"
-          width="42"
-          alt="HTML5"
-        />
+  <p><b>FRAMEWORKS & RUNTIME</b></p>
 
-        <img
-          src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/css3.svg"
-          width="42"
-          alt="CSS3"
-        />
+  <p>
+    <img src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/react.svg" width="45" alt="React" />
+    &nbsp;
+    <img src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/nodejs.svg" width="45" alt="Node.js" />
+  </p>
 
-        <img
-          src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/javascript.svg"
-          width="42"
-          alt="JavaScript"
-        />
+  <br>
 
-        <img
-          src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/typescript.svg"
-          width="42"
-          alt="TypeScript"
-        />
+  <p><b>TOOLS & INFRASTRUCTURE</b></p>
 
-        <img
-          src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/python.svg"
-          width="42"
-          alt="Python"
-        />
-
-      </td>
-
-      <td align="center" valign="top">
-
-        <b>FRAMEWORKS</b>
-
-        <br><br>
-
-        <img
-          src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/react.svg"
-          width="42"
-          alt="React"
-        />
-
-        <img
-          src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/nodejs.svg"
-          width="42"
-          alt="Node.js"
-        />
-
-      </td>
-
-      <td align="center" valign="top">
-
-        <b>TOOLS & INFRASTRUCTURE</b>
-
-        <br><br>
-
-        <img
-          src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/git.svg"
-          width="42"
-          alt="Git"
-        />
-
-        <img
-          src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/github.svg"
-          width="42"
-          alt="GitHub"
-        />
-
-        <img
-          src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/linux.svg"
-          width="42"
-          alt="Linux"
-        />
-
-        <img
-          src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/docker.svg"
-          width="42"
-          alt="Docker"
-        />
-
-        <img
-          src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/postgresql.svg"
-          width="42"
-          alt="PostgreSQL"
-        />
-
-        <img
-          src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/terminal.svg"
-          width="42"
-          alt="Terminal"
-        />
-
-        <img
-          src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/vscode.svg"
-          width="42"
-          alt="Visual Studio Code"
-        />
-
-        <img
-          src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/markdown.svg"
-          width="42"
-          alt="Markdown"
-        />
-
-      </td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/git.svg" width="45" alt="Git" />
+    &nbsp;
+    <img src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/github.svg" width="45" alt="GitHub" />
+    &nbsp;
+    <img src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/linux.svg" width="45" alt="Linux" />
+    &nbsp;
+    <img src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/docker.svg" width="45" alt="Docker" />
+    &nbsp;
+    <img src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/postgresql.svg" width="45" alt="PostgreSQL" />
+    &nbsp;
+    <img src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/terminal.svg" width="45" alt="Terminal" />
+    &nbsp;
+    <img src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/vscode.svg" width="45" alt="Visual Studio Code" />
+    &nbsp;
+    <img src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/markdown.svg" width="45" alt="Markdown" />
+  </p>
 
 </div>
 
