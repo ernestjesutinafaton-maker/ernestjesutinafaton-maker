@@ -309,69 +309,16 @@
 
 <div align="center">
 
-  <h2>PROJECTS</h2>
-
-  <br>
-
-  <h3>PROFILE ASSETS</h3>
-
-  <p>
-    Visual assets, icons, separators and graphics used by this profile.
-  </p>
-
-  <a href="https://github.com/ernestjesutinafaton-maker/profile-assets">
-    <img
-      src="https://img.shields.io/badge/VIEW_REPOSITORY-8B5CF6?style=for-the-badge&logo=github&logoColor=white"
-      alt="ERNEST JESUTIN AFATON profile assets repository"
-    />
-  </a>
-
-  <br><br>
-
-  <h3>GITHUB PROFILE STATS</h3>
-
-  <p>
-    Automated GitHub statistics engine generating custom SVG dashboards.
-  </p>
-
-  <a href="https://github.com/ernestjesutinafaton-maker/github-profile-stats">
-    <img
-      src="https://img.shields.io/badge/PRIVATE_ENGINE-D946EF?style=for-the-badge&logo=github&logoColor=white"
-      alt="ERNEST JESUTIN AFATON GitHub profile stats engine"
-    />
-  </a>
-
-  <br><br>
-
-  <h3>GITHUB PROFILE STATS PUBLICS</h3>
-
-  <p>
-    Public repository containing the generated statistics SVG files.
-  </p>
-
-  <a href="https://github.com/ernestjesutinafaton-maker/github-profile-stats-publics">
-    <img
-      src="https://img.shields.io/badge/GENERATED_OUTPUTS-22D3EE?style=for-the-badge&logo=github&logoColor=white"
-      alt="ERNEST JESUTIN AFATON public profile statistics"
-    />
-  </a>
-
-  <br><br>
-
-  <h3>PROFILE README</h3>
-
-  <p>
-    The central interface connecting the profile, assets and statistics.
-  </p>
-
-  <a href="https://github.com/ernestjesutinafaton-maker/ernestjesutinafaton-maker">
-    <img
-      src="https://img.shields.io/badge/PROFILE-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="ERNEST JESUTIN AFATON GitHub profile repository"
-    />
-  </a>
+## PROJECTS
 
 </div>
+
+| PROJECT | DESCRIPTION | STATUS |
+|:---|:---|:---:|
+| **[profile-assets](https://github.com/ernestjesutinafaton-maker/profile-assets)** | Visual assets, icons, separators and profile graphics. | `PUBLIC` |
+| **[github-profile-stats](https://github.com/ernestjesutinafaton-maker/github-profile-stats)** | Private engine generating custom GitHub statistics. | `PRIVATE` |
+| **[github-profile-stats-publics](https://github.com/ernestjesutinafaton-maker/github-profile-stats-publics)** | Public repository containing generated SVG dashboards. | `PUBLIC` |
+| **[ernestjesutinafaton-maker](https://github.com/ernestjesutinafaton-maker)** | Main GitHub profile and README interface. | `ACTIVE` |
 
 <br>
 
