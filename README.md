@@ -374,4 +374,33 @@
 
 <img src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/separators/separator-terminal.svg" width="100%" alt="ERNEST JESUTIN AFATON terminal separator" />
 
-</div> ```
+</div>
+<!-- ========================================================= -->
+<!-- ACHIEVEMENTS -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+  <h2>ACHIEVEMENTS</h2>
+
+  <br>
+
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ernestjesutinafaton-maker&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4"
+    width="850"
+    alt="ERNEST JESUTIN AFATON GitHub achievements"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/separators/separator-double-neon.svg"
+    width="100%"
+    alt="Neon separator"
+  />
+
+</div>
