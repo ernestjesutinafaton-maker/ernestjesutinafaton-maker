@@ -65,3 +65,56 @@
   />
 
 </div>
+<!-- ========================================================= -->
+<!-- ABOUT ME -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+  <h2>ABOUT ME</h2>
+
+  <p>
+    <b>ERNEST JESUTIN AFATON</b> — Software Developer & Builder
+  </p>
+
+  <p>
+    I build software, automation systems and digital projects
+    with a focus on learning, experimentation and continuous improvement.
+  </p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <b>BUILD</b><br>
+        Creating useful software
+      </td>
+      <td align="center" width="200">
+        <b>AUTOMATE</b><br>
+        Making systems smarter
+      </td>
+      <td align="center" width="200">
+        <b>LEARN</b><br>
+        Improving every day
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/separators/separator-circuit.svg"
+    width="100%"
+    alt="Cyber circuit separator"
+  />
+
+</div>
