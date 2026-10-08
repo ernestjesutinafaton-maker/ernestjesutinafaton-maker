@@ -234,3 +234,132 @@
   />
 
 </div>
+<!-- ========================================================= -->
+<!-- TECH STACK -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+  <h2>TECH STACK</h2>
+
+  <br>
+
+  <p>
+    <b>LANGUAGES</b>
+  </p>
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/html5.svg"
+    width="55"
+    alt="HTML5"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/css3.svg"
+    width="55"
+    alt="CSS3"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/javascript.svg"
+    width="55"
+    alt="JavaScript"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/typescript.svg"
+    width="55"
+    alt="TypeScript"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/python.svg"
+    width="55"
+    alt="Python"
+  />
+
+  <br><br>
+
+  <p>
+    <b>FRAMEWORKS & RUNTIME</b>
+  </p>
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/react.svg"
+    width="55"
+    alt="React"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/nodejs.svg"
+    width="55"
+    alt="Node.js"
+  />
+
+  <br><br>
+
+  <p>
+    <b>TOOLS & INFRASTRUCTURE</b>
+  </p>
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/git.svg"
+    width="55"
+    alt="Git"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/github.svg"
+    width="55"
+    alt="GitHub"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/linux.svg"
+    width="55"
+    alt="Linux"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/docker.svg"
+    width="55"
+    alt="Docker"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/postgresql.svg"
+    width="55"
+    alt="PostgreSQL"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/terminal.svg"
+    width="55"
+    alt="Terminal"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/vscode.svg"
+    width="55"
+    alt="Visual Studio Code"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/icons/markdown.svg"
+    width="55"
+    alt="Markdown"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/separators/separator-code.svg"
+    width="100%"
+    alt="Code separator"
+  />
+
+</div>
