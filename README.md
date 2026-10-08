@@ -118,3 +118,54 @@
   />
 
 </div>
+<!-- ========================================================= -->
+<!-- PROFILE STATS -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+  <h2>PROFILE STATS</h2>
+
+  <br>
+
+  <table>
+    <tr>
+      <td align="center">
+        <b>VIEWS</b><br>
+        <img
+          src="https://komarev.com/ghpvc/?username=ernestjesutinafaton-maker&style=for-the-badge&color=8B5CF6"
+          alt="ERNEST JESUTIN AFATON profile views"
+        />
+      </td>
+
+      <td align="center">
+        <b>FOLLOWERS</b><br>
+        <img
+          src="https://img.shields.io/github/followers/ernestjesutinafaton-maker?style=for-the-badge&color=D946EF&labelColor=090014"
+          alt="ERNEST JESUTIN AFATON GitHub followers"
+        />
+      </td>
+
+      <td align="center">
+        <b>STARS</b><br>
+        <img
+          src="https://img.shields.io/github/stars/ernestjesutinafaton-maker?style=for-the-badge&color=22D3EE&labelColor=090014"
+          alt="ERNEST JESUTIN AFATON GitHub stars"
+        />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/separators/separator-neon-line.svg"
+    width="100%"
+    alt="Neon separator"
+  />
+
+</div>
