@@ -181,3 +181,56 @@
   />
 
 </div>
+<!-- ========================================================= -->
+<!-- GITHUB CORE -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+  <h2>GITHUB CORE</h2>
+
+  <br>
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/github-profile-stats-publics/main/overview.svg"
+    width="900"
+    alt="ERNEST JESUTIN AFATON GitHub overview statistics"
+  />
+
+  <br><br>
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/github-profile-stats-publics/main/streak.svg"
+    width="900"
+    alt="ERNEST JESUTIN AFATON GitHub contribution streak"
+  />
+
+  <br><br>
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/github-profile-stats-publics/main/contributions.svg"
+    width="900"
+    alt="ERNEST JESUTIN AFATON GitHub contributions"
+  />
+
+  <br><br>
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/github-profile-stats-publics/main/languages.svg"
+    width="900"
+    alt="ERNEST JESUTIN AFATON programming languages"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/separators/separator-double-neon.svg"
+    width="100%"
+    alt="Neon separator"
+  />
+
+</div>
