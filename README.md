@@ -128,33 +128,20 @@
 
   <br>
 
-  <table>
-    <tr>
-      <td align="center">
-        <b>VIEWS</b><br>
-        <img
-          src="https://komarev.com/ghpvc/?username=ernestjesutinafaton-maker&style=for-the-badge&color=8B5CF6"
-          alt="ERNEST JESUTIN AFATON profile views"
-        />
-      </td>
+  <img
+    src="https://komarev.com/ghpvc/?username=ernestjesutinafaton-maker&style=for-the-badge&color=8B5CF6"
+    alt="ERNEST JESUTIN AFATON profile views"
+  />
 
-      <td align="center">
-        <b>FOLLOWERS</b><br>
-        <img
-          src="https://img.shields.io/github/followers/ernestjesutinafaton-maker?style=for-the-badge&color=D946EF&labelColor=090014"
-          alt="ERNEST JESUTIN AFATON GitHub followers"
-        />
-      </td>
+  <img
+    src="https://img.shields.io/github/followers/ernestjesutinafaton-maker?style=for-the-badge&color=D946EF&labelColor=090014"
+    alt="ERNEST JESUTIN AFATON GitHub followers"
+  />
 
-      <td align="center">
-        <b>STARS</b><br>
-        <img
-          src="https://img.shields.io/github/stars/ernestjesutinafaton-maker?style=for-the-badge&color=22D3EE&labelColor=090014"
-          alt="ERNEST JESUTIN AFATON GitHub stars"
-        />
-      </td>
-    </tr>
-  </table>
+  <img
+    src="https://img.shields.io/github/stars/ernestjesutinafaton-maker?style=for-the-badge&color=22D3EE&labelColor=090014"
+    alt="ERNEST JESUTIN AFATON GitHub stars"
+  />
 
 </div>
 
