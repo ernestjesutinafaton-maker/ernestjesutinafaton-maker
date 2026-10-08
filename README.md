@@ -356,26 +356,20 @@
 <!-- TERMINAL -->
 <!-- ========================================================= -->
 
-<div align="center">
+<div align="center"> <h2>TERMINAL</h2> </div> <div align="center">
 
-  <h2>TERMINAL</h2>
+<code>$ whoami</code><br>
+<code>ernest-jesutin-afaton</code><br><br>
 
-</div>
+<code>$ focus</code><br>
+<code>software-development</code><br>
+<code>automation</code><br>
+<code>systems</code><br>
+<code>creative-technology</code><br><br>
 
-```text
-$ whoami
-ernest-jesutin-afaton
+<code>$ status</code><br>
+<code>building...</code>
 
-$ focus
-software-development
-automation
-systems
-creative-technology
-
-$ status
-building...
-
-```
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/separators/separator-terminal.svg" width="100%" alt="ERNEST JESUTIN AFATON terminal separator" />
