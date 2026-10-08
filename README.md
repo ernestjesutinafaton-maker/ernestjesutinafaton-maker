@@ -352,3 +352,40 @@
   />
 
 </div>
+<!-- ========================================================= -->
+<!-- TERMINAL -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+  <h2>TERMINAL</h2>
+
+  <br>
+
+  <pre>
+$ whoami
+ernest-jesutin-afaton
+
+$ focus
+software-development
+automation
+systems
+creative-technology
+
+$ status
+building...
+  </pre>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/separators/separator-terminal.svg"
+    width="100%"
+    alt="Terminal separator"
+  />
+
+</div>
