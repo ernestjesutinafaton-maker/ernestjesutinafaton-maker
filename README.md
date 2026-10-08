@@ -151,3 +151,33 @@
   />
 
 </div>
+
+<!-- ========================================================= -->
+<!-- GITHUB ACTIVITY -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+  <h2>GITHUB ACTIVITY</h2>
+
+  <br>
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/github-profile-stats-publics/main/activity.svg"
+    width="900"
+    alt="ERNEST JESUTIN AFATON GitHub activity"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/separators/separator-circuit.svg"
+    width="100%"
+    alt="Cyber circuit separator"
+  />
+
+</div>
