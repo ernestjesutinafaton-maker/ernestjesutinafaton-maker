@@ -109,13 +109,9 @@
   <h2>PROFILE STATS</h2>
 
   <img
-    src="https://img.shields.io/github/followers/ernestjesutinafaton-maker?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=090014&color=8B5CF6"
-    alt="GitHub followers"
-  />
-
-  <img
-    src="https://img.shields.io/github/stars/ernestjesutinafaton-maker?style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=090014&color=D946EF"
-    alt="GitHub stars"
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/github-profile-stats-publics/main/stats_strip.svg"
+    width="100%"
+    alt="GitHub statistics: repositories, followers, stars, contributions and streaks"
   />
 
 </div>
@@ -130,7 +126,7 @@
 
 <!-- ========================================================= -->
 <!-- GITHUB ACTIVITY -->
-<!-- Version statique du graphe. Sera remplacee par la version animee. -->
+<!-- Graphe anime (serpent). V2 : chat, chien et combats. -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -138,11 +134,9 @@
   <h2>GITHUB ACTIVITY</h2>
 
   <img
-    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/github-profile-stats-publics/main/contribution_graph.svg"
+    src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/github-profile-stats-publics/main/contribution_world.svg"
     width="100%"
-    alt="GitHub contribution graph over the last year"
+    alt="Animated GitHub contribution graph: a snake eats the contribution cells"
   />
 
 </div>
-
-# Next Datas Will coming soon. 
