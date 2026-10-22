@@ -10,7 +10,7 @@
     alt="Ernest Jesutin Afaton - GitHub Profile Banner"
   /> -->
 
-  <br> 
+  <br>  <br> 
 
   <h1>
     ERNEST JESUTIN AFATON
