@@ -2,15 +2,15 @@
 <!-- HERO -->
 <!-- ========================================================= -->
 
-<div align="center">
+<!-- <div align="center">
 
   <img
     src="https://raw.githubusercontent.com/ernestjesutinafaton-maker/profile-assets/main/banner/profile-banner.png"
     width="100%"
     alt="Ernest Jesutin Afaton - GitHub Profile Banner"
-  />
+  /> -->
 
-  <br><br>
+  <br> 
 
   <h1>
     ERNEST JESUTIN AFATON
