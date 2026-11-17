@@ -55,13 +55,13 @@ recherche:   un stage de 4 à 5 semaines en développement ou en systèmes et r�
 ### Langages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cpp,bash,powershell&theme=dark" alt="Langages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,php,python,java,cpp,bash,powershell&theme=dark" alt="Langages" />
 </p>
 
 ### Développement web et mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,symfony,laravel,nodejs,express,nestjs,flask,django,fastapi,tailwind,threejs,vite&theme=dark" alt="Développement web" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,angular,vue,symfony,laravel,nodejs,express,nestjs,flask,django,fastapi,tailwind,threejs,vite&theme=dark" alt="Développement web" />
 </p>
 
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
@@ -71,7 +71,7 @@ recherche:   un stage de 4 à 5 semaines en développement ou en systèmes et r�
 <img src="https://img.shields.io/badge/Twig-templates-8BC34A?style=flat-square" alt="Twig" />
 <img src="https://img.shields.io/badge/Doctrine-ORM-FC6A31?style=flat-square" alt="Doctrine" />
 
-- Applications web complètes : Symfony, Laravel, Next.js / React, Angular
+- Applications web complètes : Symfony, Laravel, Next.js / React, Angular, C# avec Blazor WebAssembly
 - Applications mobiles et de bureau multiplateformes, avec mode hors connexion : React Native / Expo, Tauri, PowerSync
 - Architecture logicielle : MVC, conception d'un framework PHP sans librairie
 
@@ -156,7 +156,7 @@ recherche:   un stage de 4 à 5 semaines en développement ou en systèmes et r�
 | **readme-start** | Outil en ligne de commande qui génère un README.md complet à partir des fichiers d'un projet. 12 écosystèmes, zéro dépendance, publié sur npm. | Node.js, JavaScript, GitHub Actions | [Site](https://ernestjesutinafaton-maker.github.io/readme-start/) · [Dépôt](https://github.com/ernestjesutinafaton-maker/readme-start) |
 | **HiveTown** | Monde 3D où chaque utilisateur a sa maison et ses assistants IA qui collaborent entre eux. *En conception.* | TypeScript, Three.js, Node.js, Express, Claude API | [Dépôt](https://github.com/ernestjesutinafaton-maker/HiveTown) |
 | **ShadowCom** | Application web de communication. | JavaScript, Python, Flask, Django | — |
-| **Portfolio** | Site personnel statique, sans framework. | HTML, CSS, JavaScript | [Site](https://ernestjesutinafaton-maker.github.io) · [Dépôt](https://github.com/ernestjesutinafaton-maker/ernestjesutinafaton-maker.github.io) |
+| **Le Monde d'Ernest** | Mon portfolio et blog sous forme de jeu : une île en 3D à explorer, 5 boss à affronter et un Journal où j'écris sur mes projets. | C#, Blazor WebAssembly, Three.js, xUnit, GitHub Actions | [Jouer](https://ernestjesutinafaton-maker.github.io) · [Journal](https://ernestjesutinafaton-maker.github.io/journal) · [Dépôt](https://github.com/ernestjesutinafaton-maker/ernestjesutinafaton-maker.github.io) |
 
 ### Projets de formation (EPSI)
 
