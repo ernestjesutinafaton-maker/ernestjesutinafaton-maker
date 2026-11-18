@@ -22,7 +22,7 @@ Applications web et mobiles · Infrastructures système et réseau · Objets con
 
 ## Sommaire
 
-[Profil](#profil) · [Compétences](#compétences) · [Expérience](#expérience-professionnelle) · [Projets](#projets) · [Formation](#formation) · [Distinctions](#distinctions-et-certifications) · [Contact](#contact)
+[Profil](#profil) · [Compétences](#compétences) · [Expérience](#expérience-professionnelle) · [Projets](#projets) · [Formation](#formation) · [Certifications](#certifications-et-distinctions) · [Contact](#contact)
 
 ---
 
@@ -206,10 +206,27 @@ recherche:   un stage de 4 à 5 semaines en développement ou en systèmes et r�
 <!-- DISTINCTIONS                                               -->
 <!-- ========================================================= -->
 
-## Distinctions et certifications
+## Certifications et distinctions
 
-- **2e place** au Workshop National IoT (boîte à lecture NFC, projet de groupe)
-- **Anthropic Academy** : certification en cours (usage et intégration de Claude)
+**Claude Academy (Anthropic)** · 6 certificats · novembre 2026
+
+- Building with the Claude API
+- Claude Code in action
+- Introduction to Model Context Protocol
+- Introduction to evals
+- AI capabilities and limitations
+- Building effective human-agent teams
+
+**LinkedIn Learning** · 4 certificats · novembre 2026
+
+- Les fondements de la programmation
+- Examen blanc pour la préparation à la certification CAPM®
+- Créer et lancer sa startup avec des ressources limitées
+- L'IA et le cerveau humain : Reprendre le contrôle de son attention
+
+**Distinction** : **2e place** au Workshop National IoT (boîte à lecture NFC, projet de groupe)
+
+[Voir les certificats sur LinkedIn](https://www.linkedin.com/in/ernest-afaton-1280a4361/details/certifications/)
 
 ## Langues et centres d'intérêt
 
